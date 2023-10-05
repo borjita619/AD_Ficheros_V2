@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d90559f-3201-4bea-b0f0-492d96bd68d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AD_UT2_Ej3_Ficheros_JSON/JsonSimple_1_Writer_BorjaGL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AD_UT2_Ej3_Ficheros_JSON/JsonSimple_2_Reader_BorjaGL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AD_UT2_Ej_1_Sist_Ficheros/Ad_UT2_Ej_1_Sist_Ficheros_Lucia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,9 +16,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2WKvzn3ZUNSIsUPbA2CJ5bkmgM3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -36,13 +31,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Lenovo/Desktop/2º DAM/Acceso a datos/Proyectos Java/AD_Ficheros_V2/src/main/java/AD_UT2_Ej3_Ficheros_JSON",
+    "last_opened_file_path": "C:/Users/rolda/AD_Ficheros_V2/src/main/java",
     "onboarding.tips.debug.path": "C:/Users/Lenovo/Desktop/2º DAM/Acceso a datos/Proyectos Java/AD_Ficheros_V2/src/main/java/org/example/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rolda\AD_Ficheros_V2\src\main\java" />
       <recent name="C:\Users\Lenovo\Desktop\2º DAM\Acceso a datos\Proyectos Java\AD_Ficheros_V2\src\main\java\AD_UT2_Ej3_Ficheros_JSON" />
     </key>
   </component>
@@ -55,6 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696494354783</updated>
       <workItem from="1696494355954" duration="112000" />
+      <workItem from="1696494858331" duration="60000" />
     </task>
     <servers />
   </component>

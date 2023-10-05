@@ -13,9 +13,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2WKvzn3ZUNSIsUPbA2CJ5bkmgM3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -39,12 +39,41 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "C:/Users/Lenovo/Desktop/2º DAM/Acceso a datos/Proyectos Java/AD_Ficheros_V2/src/main/java/org/example/Main.java",
     "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/Desktop/2º DAM/Acceso a datos/Proyectos Java/AD_Ficheros_V2/src/main/java/AD_UT2_Ej3_Ficheros_JSON&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Lenovo/Desktop/2º DAM/Acceso a datos/Proyectos Java/AD_Ficheros_V2/src/main/java/org/example/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Lenovo\Desktop\2º DAM\Acceso a datos\Proyectos Java\AD_Ficheros_V2\src\main\java\AD_UT2_Ej3_Ficheros_JSON" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AD_UT2_Ej2_Ficheros_XML_SAX_Daniel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AD_UT2_Ej2_Ficheros_XML_SAX_DANIEL.AD_UT2_Ej2_Ficheros_XML_SAX_Daniel" />
+      <module name="AD_Ficheros_V2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AD_UT2_Ej2_Ficheros_XML_SAX_DANIEL.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AD_UT2_Ej2_Ficheros_XML_SAX_Daniel" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

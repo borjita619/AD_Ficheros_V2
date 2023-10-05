@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+
+			<productos>
+				<idProducto>1</idProducto>
+				<nombre>platano</nombre>
+				<descripcion>platano de canarias</descripcion>
+				<origen>España</origen>
+				<marca>Doramas</marca>
+				<perecedero>true</perecedero>
+				<precio>1.99</precio>
+				<oferta>false</oferta>
+				<tipoOferta></tipoOferta>
+				<descuento>0%</descuento>
+				<inicioOferta></inicioOferta>
+				<finOferta></finOferta>
+				<unidades>0</unidades>
+				<unidadMedida>kg</unidadMedida>
+				<adquirido>false</adquirido>
+			</productos>
+			<productos>
+				<idProducto>2</idProducto>
+				<nombre>naranja</nombre>
+				<descripcion>saco de 4 kg de naranja valenciana</descripcion>
+				<origen>España</origen>
+				<marca>Navelate</marca>
+				<perecedero>true</perecedero>
+				<precio>2.99</precio>
+				<oferta>true</oferta>
+				<tipoOferta>descuento</tipoOferta>
+				<descuento>20%</descuento>
+				<inicioOferta>04/04/2021</inicioOferta>
+				<finOferta>10/04/2021</finOferta>
+				<unidades>1</unidades>
+				<unidadMedida>kg</unidadMedida>
+				<adquirido>true</adquirido>
+			</productos>
+
+			<productos>
+				<idProducto>3</idProducto>
+				<nombre>lubina</nombre>
+				<descripcion>lubina de las marismas del Guadalquivir</descripcion>
+				<origen>España</origen>
+				<marca>Surymar</marca>
+				<perecedero>true</perecedero>
+				<precio>11.5</precio>
+				<oferta>false</oferta>
+				<tipoOferta></tipoOferta>
+				<descuento>0%</descuento>
+				<inicioOferta></inicioOferta>
+				<finOferta></finOferta>
+				<unidades>0</unidades>
+				<unidadMedida>kg</unidadMedida>
+				<adquirido>false</adquirido>
+			</productos>
+			<productos>
+				<idProducto>4</idProducto>
+				<nombre>salmon ahumado lonchas 100gr</nombre>
+				<descripcion>salmon ahumado lonchas, paquete 100gr</descripcion>
+				<origen>España</origen>
+				<marca>Ubago</marca>
+				<perecedero>true</perecedero>
+				<precio>2.7</precio>
+				<oferta>false</oferta>
+				<tipoOferta></tipoOferta>
+				<descuento>0%</descuento>
+				<inicioOferta></inicioOferta>
+				<finOferta></finOferta>
+				<unidades>0</unidades>
+				<unidadMedida>gr</unidadMedida>
+				<adquirido>false</adquirido>
+			</productos>
+			<productos>
+				<idProducto>5</idProducto>
+				<nombre>pizza fresca 4 quesos</nombre>
+				<descripcion>pizza 4 quesos: emmental, mozarella, grana, cheddar; 410gr</descripcion>
+				<origen>España</origen>
+				<marca>Hacendado</marca>
+				<perecedero>false</perecedero>
+				<precio>2.39</precio>
+				<oferta>false</oferta>
+				<tipoOferta></tipoOferta>
+				<descuento>0%</descuento>
+				<inicioOferta></inicioOferta>
+				<finOferta></finOferta>
+				<unidades>1</unidades>
+				<unidadMedida>unidades</unidadMedida>
+				<adquirido>true</adquirido>
+			</productos>
+			<productos>
+				<idProducto>6</idProducto>
+				<nombre>salteado verduras pollo</nombre>
+				<descripcion>pechuga pollo, patata, zanahoria, calabacin, guisantes y cebolla. Paquete 450gr</descripcion>
+				<origen>España</origen>
+				<marca>Hacendado</marca>
+				<perecedero>false</perecedero>
+				<precio>2.68</precio>
+				<oferta>false</oferta>
+				<tipoOferta></tipoOferta>
+				<descuento>0%</descuento>
+				<inicioOferta></inicioOferta>
+				<finOferta></finOferta>
+				<unidades>1</unidades>
+				<unidadMedida>unidades</unidadMedida>
+				<adquirido>true</adquirido>
+			</productos>
+			<productos>
+				<idProducto>7</idProducto>
+				<nombre>kiwi 1kg</nombre>
+				<descripcion>kiwi verde 1kg</descripcion>
+				<origen>España</origen>
+				<marca>zespri</marca>
+				<perecedero>true</perecedero>
+				<precio>3.95</precio>
+				<oferta>false</oferta>
+				<tipoOferta></tipoOferta>
+				<descuento>0%</descuento>
+				<inicioOferta></inicioOferta>
+				<finOferta></finOferta>
+				<unidades>1</unidades>
+				<unidadMedida>kg</unidadMedida>
+				<adquirido>true</adquirido>
+			</productos>
+			<productos>
+				<idProducto>8</idProducto>
+				<nombre>fresón tarrina 500 g</nombre>
+				<descripcion>fresón tarrina 500g</descripcion>
+				<origen>España</origen>
+				<marca>Neca</marca>
+				<perecedero>true</perecedero>
+				<precio>1.69</precio>
+				<oferta>false</oferta>
+				<tipoOferta></tipoOferta>
+				<descuento>0%</descuento>
+				<inicioOferta></inicioOferta>
+				<finOferta></finOferta>
+				<unidades>1</unidades>
+				<unidadMedida>kg</unidadMedida>
+				<adquirido>true</adquirido>
+			</productos>
+			<productos>
+				<idProducto>9</idProducto>
+				<nombre>leche semidesnatada</nombre>
+				<descripcion>leche semidestanata brick 1l</descripcion>
+				<origen>España</origen>
+				<marca>Carrefour</marca>
+				<perecedero>false</perecedero>
+				<precio>0.56</precio>
+				<oferta>true</oferta>
+				<tipoOferta>descuento</tipoOferta>
+				<descuento>4%</descuento>
+				<inicioOferta>10/04/2021</inicioOferta>
+				<finOferta>15/04/2021</finOferta>
+				<unidades>4</unidades>
+				<unidadMedida>unidad</unidadMedida>
+				<adquirido>true</adquirido>
+			</productos>
+			<productos>
+				<idProducto>10</idProducto>
+				<nombre>arroz redondo 1kg</nombre>
+				<descripcion>arroz redondo sos 1kg</descripcion>
+				<origen>España</origen>
+				<marca>SOS</marca>
+				<perecedero>false</perecedero>
+				<precio>1.52</precio>
+				<oferta>false</oferta>
+				<tipoOferta></tipoOferta>
+				<descuento>0%</descuento>
+				<inicioOferta></inicioOferta>
+				<finOferta></finOferta>
+				<unidades>1</unidades>
+				<unidadMedida>unidades</unidadMedida>
+				<adquirido>true</adquirido>
+			</productos>
+			<productos>
+				<idProducto>11</idProducto>
+				<nombre>brocoli 500g</nombre>
+				<descripcion>brocoli 500g</descripcion>
+				<origen>España</origen>
+				<marca>hiperdino</marca>
+				<perecedero>true</perecedero>
+				<precio>1.25</precio>
+				<oferta>false</oferta>
+				<tipoOferta></tipoOferta>
+				<descuento>0%</descuento>
+				<inicioOferta></inicioOferta>
+				<finOferta></finOferta>
+				<unidades>2</unidades>
+				<unidadMedida>kg</unidadMedida>
+				<adquirido>true</adquirido>
+			</productos>
+			<productos>
+				<idProducto>12</idProducto>
+				<nombre>patata lavada 5 kg</nombre>
+				<descripcion>patata lavada 5 kg</descripcion>
+				<origen>España</origen>
+				<marca>hiperdino</marca>
+				<perecedero>true</perecedero>
+				<precio>4.69</precio>
+				<oferta>false</oferta>
+				<tipoOferta></tipoOferta>
+				<descuento>0%</descuento>
+				<inicioOferta></inicioOferta>
+				<finOferta></finOferta>
+				<unidades>1</unidades>
+				<unidadMedida>kg</unidadMedida>
+				<adquirido>false</adquirido>
+			</productos>
+			<seccion>la despensa</seccion>
+			<productos>
+				<idProducto>13</idProducto>
+				<nombre>Nesquik cacao soluble 1.5 kg</nombre>
+				<descripcion>cacao soluble instantáneo Nestlé Nesquik sin gluten y sin lactosa bolsas 1.5 kg</descripcion>
+				<origen>España</origen>
+				<marca>nestlé</marca>
+				<perecedero>false</perecedero>
+				<precio>5.99</precio>
+				<oferta>true</oferta>
+				<tipoOferta>3x2</tipoOferta>
+				<descuento>0%</descuento>
+				<inicioOferta>06/04/2021</inicioOferta>
+				<finOferta>20/04/2021</finOferta>
+				<unidades>1</unidades>
+				<unidadMedida>unidad</unidadMedida>
+				<adquirido>true</adquirido>
+			</productos>
+			<productos>
+				<idProducto>14</idProducto>
+				<nombre>huevos M-L ecologicos 6ud</nombre>
+				<descripcion>huevos M-L ecologicos carrefour 6ud</descripcion>
+				<origen>España</origen>
+				<marca>hiperdino</marca>
+				<perecedero>true</perecedero>
+				<precio>1.99</precio>
+				<oferta>false</oferta>
+				<tipoOferta></tipoOferta>
+				<descuento>0%</descuento>
+				<inicioOferta></inicioOferta>
+				<finOferta></finOferta>
+				<unidades>2</unidades>
+				<unidadMedida>unidades</unidadMedida>
+				<adquirido>true</adquirido>
+			</productos>
+
+</root>

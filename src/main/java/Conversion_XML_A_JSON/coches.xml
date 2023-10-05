@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="21" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="XMLEncoderDecoder.Coche">
+    <void property="descuento">
+     <boolean>true</boolean>
+    </void>
+    <void property="etiqueta">
+     <char>B</char>
+    </void>
+    <void property="id">
+     <int>1</int>
+    </void>
+    <void property="marca">
+     <string>Hyundai</string>
+    </void>
+    <void property="modelo">
+     <string>i20N</string>
+    </void>
+    <void property="precio">
+     <double>30210.0</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="XMLEncoderDecoder.Coche">
+    <void property="descuento">
+     <boolean>true</boolean>
+    </void>
+    <void property="etiqueta">
+     <char>B</char>
+    </void>
+    <void property="id">
+     <int>2</int>
+    </void>
+    <void property="marca">
+     <string>Toyota</string>
+    </void>
+    <void property="modelo">
+     <string>Yaris GR</string>
+    </void>
+    <void property="precio">
+     <double>38249.99</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="XMLEncoderDecoder.Coche">
+    <void property="etiqueta">
+     <char>B</char>
+    </void>
+    <void property="id">
+     <int>3</int>
+    </void>
+    <void property="marca">
+     <string>Ford</string>
+    </void>
+    <void property="modelo">
+     <string>Focus ST</string>
+    </void>
+    <void property="precio">
+     <double>37326.19</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="XMLEncoderDecoder.Coche">
+    <void property="etiqueta">
+     <char>B</char>
+    </void>
+    <void property="id">
+     <int>4</int>
+    </void>
+    <void property="marca">
+     <string>Honda</string>
+    </void>
+    <void property="modelo">
+     <string>Civic Type R</string>
+    </void>
+    <void property="precio">
+     <double>54850.0</double>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="XMLEncoderDecoder.Coche">
+    <void property="descuento">
+     <boolean>true</boolean>
+    </void>
+    <void property="etiqueta">
+     <char>B</char>
+    </void>
+    <void property="id">
+     <int>5</int>
+    </void>
+    <void property="marca">
+     <string>Cupra</string>
+    </void>
+    <void property="modelo">
+     <string>León</string>
+    </void>
+    <void property="precio">
+     <double>32450.0</double>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d90559f-3201-4bea-b0f0-492d96bd68d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AD_UT2_Ej3_Ficheros_JSON/JsonSimple_1_Writer_BorjaGL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AD_UT2_Ej3_Ficheros_JSON/JsonSimple_2_Reader_BorjaGL.java" afterDir="false" />
-    </list>
+    <list default="true" id="6d90559f-3201-4bea-b0f0-492d96bd68d8" name="Changes" comment="Agregar archivos Borja" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,18 +17,26 @@
   "associatedIndex": 7
 }]]></component>
   <component name="ProjectId" id="2WKvzn3ZUNSIsUPbA2CJ5bkmgM3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Lenovo/Desktop/2º DAM/Acceso a datos/Proyectos Java/AD_Ficheros_V2/src/main/java/AD_UT2_Ej3_Ficheros_JSON",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "C:/Users/Lenovo/Desktop/2º DAM/Acceso a datos/Proyectos Java/AD_Ficheros_V2/src/main/java/org/example/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
@@ -54,12 +54,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696494354783</updated>
-      <workItem from="1696494355954" duration="112000" />
+      <workItem from="1696494355954" duration="469000" />
     </task>
+    <task id="LOCAL-00001" summary="Agregar archivos Borja">
+      <option name="closed" value="true" />
+      <created>1696494518784</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696494518786</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Agregar archivos Borja" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregar archivos Borja" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -5,46 +5,68 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d90559f-3201-4bea-b0f0-492d96bd68d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AD_UT2_Ej3_Ficheros_JSON/JsonSimple_1_Writer_BorjaGL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AD_UT2_Ej3_Ficheros_JSON/JsonSimple_2_Reader_BorjaGL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AD_UT2_Ej2B_BufferedX/AD_UT2_Ej2B_BufferedX_Laura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2WKvzn3ZUNSIsUPbA2CJ5bkmgM3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Lenovo/Desktop/2º DAM/Acceso a datos/Proyectos Java/AD_Ficheros_V2/src/main/java/AD_UT2_Ej3_Ficheros_JSON",
-    "onboarding.tips.debug.path": "C:/Users/Lenovo/Desktop/2º DAM/Acceso a datos/Proyectos Java/AD_Ficheros_V2/src/main/java/org/example/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/Desktop/2º DAM/Acceso a datos/Proyectos Java/AD_Ficheros_V2/src/main/java/AD_UT2_Ej3_Ficheros_JSON&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Lenovo/Desktop/2º DAM/Acceso a datos/Proyectos Java/AD_Ficheros_V2/src/main/java/org/example/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Lenovo\Desktop\2º DAM\Acceso a datos\Proyectos Java\AD_Ficheros_V2\src\main\java\AD_UT2_Ej3_Ficheros_JSON" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AD_UT2_Ej2B_BufferedX_Laura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AD_UT2_Ej2B_BufferedX.AD_UT2_Ej2B_BufferedX_Laura" />
+      <module name="AD_Ficheros_V2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AD_UT2_Ej2B_BufferedX.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AD_UT2_Ej2B_BufferedX_Laura" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,6 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696494354783</updated>
       <workItem from="1696494355954" duration="112000" />
+      <workItem from="1696494769452" duration="182000" />
     </task>
     <servers />
   </component>

@@ -20,8 +20,8 @@ public class JsonSimple_3_WriterArrayNuevo_Denis {
 
     public static void main(String[] args) {
         //el parser divide el array para poder extraer su informacion y sea mas facil leerla por bloques
-        JSONParser parser = new JSONParser();
-        Reader reader;
+        //JSONParser parser = new JSONParser();
+        //Reader reader;
 
         // Creación de un array JSON en este caso para objetos completos JSON ------------------------------------------
         JSONArray arrayPrincipalJSON = new JSONArray();

@@ -40,6 +40,7 @@ public class JsonSimple_3_WriterArrayNuevo_Denis {
         // Creación del objeto 2 JSON ----------------------------------------------------------------------------------
         JSONObject obj2 = new JSONObject();
         JSONArray hobbies2 = new JSONArray();
+
         obj2.put("Nombre", "Manolo Lama");
         obj2.put("Edad", 52);
         hobbies2.add("Futbol Americano");

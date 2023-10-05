@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<futbolistas>
+                            
+    
+    
+    
+    
+    
+    <futbolista ID="1">
+                                                        
+        
+        
+        
+        
+        
+        <apellidos>Messi</apellidos>
+                                                        
+        
+        
+        
+        
+        
+        <nombre>Leo</nombre>
+                                                                                                                       
+    	
+        
+        
+        
+        <equipo>Inter Miami</equipo>
+                                    
+    
+    
+    
+    
+    </futbolista>
+                            
+    
+    
+    
+    
+    
+    <futbolista ID="2">
+                                                        
+        
+        
+        
+        
+        
+        <apellidos>Ronaldo</apellidos>
+                                	
+        
+        
+        
+        <nombre>Cristiano</nombre>
+                                	
+        
+        
+        
+        <equipo>Manchester United</equipo>
+                                                        
+        
+        
+        
+        
+        <salud estado="lesionado" timestamp="1528286082"/>
+                                                    
+    
+    
+    
+    
+    
+    </futbolista>
+                            
+    
+    
+    
+    
+    
+    <futbolista ID="3">
+                                                        
+        
+        
+        
+        
+        
+        <apellidos>Muller</apellidos>
+                                                 
+        
+        
+        
+        
+        
+        
+        <nombre>Thomas</nombre>
+                                	
+        
+        
+        
+        <equipo>Bayern Munich</equipo>
+                                                    
+    
+    
+    
+    
+    
+    </futbolista>
+                                                       
+
+
+
+
+
+
+</futbolistas>

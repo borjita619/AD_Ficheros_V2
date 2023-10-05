@@ -1,7 +1,7 @@
 package AD_UT2_Ej2B_BufferedX;
-
 import java.io.IOException;
 import java.io.PrintWriter;
+
 public class AD_UT2_Ej2B_BufferedX_Laura {
     public static void main(String[] args) {
         PrintWriter printWriter = null;

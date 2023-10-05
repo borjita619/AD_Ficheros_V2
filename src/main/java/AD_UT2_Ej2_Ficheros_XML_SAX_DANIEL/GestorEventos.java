@@ -16,8 +16,6 @@ public class GestorEventos extends DefaultHandler {
     private boolean enNombre;
     boolean enPrecio;
 
-    final static int MAX_PRODUCTOS = 8;
-
 
     public GestorEventos(PrintStream ps) {
         this.ps = ps;

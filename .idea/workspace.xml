@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d90559f-3201-4bea-b0f0-492d96bd68d8" name="Changes" comment="Ya ta">
-      <change afterPath="$PROJECT_DIR$/dataArrayMartin.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JsonSimple_4_ReaderArray/JsonSimple_4_ReaderArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AD_UT2_Ej2B_BufferedX/AD_UT2_Ej2B_BufferedX_Laura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AD_UT2_Ej2B_BufferedX/AD_UT2_Ej2B_BufferedX_Laura.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,21 +49,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/ulula/IdeaProjects/AD_Ficheros_V2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "C:/Users/Lenovo/Desktop/2º DAM/Acceso a datos/Proyectos Java/AD_Ficheros_V2/src/main/java/org/example/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ulula/IdeaProjects/AD_Ficheros_V2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Lenovo/Desktop/2º DAM/Acceso a datos/Proyectos Java/AD_Ficheros_V2/src/main/java/org/example/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ulula\IdeaProjects\AD_Ficheros_V2" />
@@ -74,7 +73,7 @@
       <recent name="JsonSimple_4_ReaderArray" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AD_UT2_Ej_3_Random">
     <configuration name="AD_UT2_Ej2B_BufferedX_Laura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AD_UT2_Ej2B_BufferedX.AD_UT2_Ej2B_BufferedX_Laura" />
       <module name="AD_Ficheros_V2" />
@@ -88,8 +87,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AD_UT2_Ej_3_Random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AD_UT2_Ej_3_Random.AD_UT2_Ej_3_Random" />
+      <module name="AD_Ficheros_V2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AD_UT2_Ej_3_Random.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AD_UT2_Ej_3_Random" />
         <item itemvalue="Application.AD_UT2_Ej2B_BufferedX_Laura" />
       </list>
     </recent_temporary>
@@ -105,6 +118,9 @@
       <workItem from="1696494355954" duration="112000" />
       <workItem from="1696494769452" duration="565000" />
       <workItem from="1696580759786" duration="387000" />
+      <workItem from="1697728572233" duration="2312000" />
+      <workItem from="1697740036784" duration="949000" />
+      <workItem from="1697789808568" duration="808000" />
     </task>
     <task id="LOCAL-00001" summary="Laura">
       <option name="closed" value="true" />
